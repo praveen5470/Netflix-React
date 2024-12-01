@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/praveen5470/Netflix-React.git/static/css/main.ae757d76.css",
+    "main.js": "/praveen5470/Netflix-React.git/static/js/main.36211df1.js",
+    "index.html": "/praveen5470/Netflix-React.git/index.html",
+    "main.ae757d76.css.map": "/praveen5470/Netflix-React.git/static/css/main.ae757d76.css.map",
+    "main.36211df1.js.map": "/praveen5470/Netflix-React.git/static/js/main.36211df1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae757d76.css",
+    "static/js/main.36211df1.js"
+  ]
+}
