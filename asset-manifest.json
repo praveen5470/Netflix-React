@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/praveen5470/Netflix-React.git/static/css/main.ae757d76.css",
-    "main.js": "/praveen5470/Netflix-React.git/static/js/main.36211df1.js",
-    "index.html": "/praveen5470/Netflix-React.git/index.html",
-    "main.ae757d76.css.map": "/praveen5470/Netflix-React.git/static/css/main.ae757d76.css.map",
-    "main.36211df1.js.map": "/praveen5470/Netflix-React.git/static/js/main.36211df1.js.map"
+    "main.css": "/praveen5470/Netflix-React/static/css/main.ae757d76.css",
+    "main.js": "/praveen5470/Netflix-React/static/js/main.260f666b.js",
+    "index.html": "/praveen5470/Netflix-React/index.html",
+    "main.ae757d76.css.map": "/praveen5470/Netflix-React/static/css/main.ae757d76.css.map",
+    "main.260f666b.js.map": "/praveen5470/Netflix-React/static/js/main.260f666b.js.map"
   },
   "entrypoints": [
     "static/css/main.ae757d76.css",
-    "static/js/main.36211df1.js"
+    "static/js/main.260f666b.js"
   ]
 }
